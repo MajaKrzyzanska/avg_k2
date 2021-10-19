@@ -5,6 +5,6 @@ function srednia(int a, int b)
 }
 function wazona(int a, int b)
 {
-	return (7*a+3*b)/10;
+	return (8*a+2*b)/10;
 }
 ?>
